@@ -42,3 +42,11 @@ An interactive Power BI dashboard analyzing $118M+ in global financial sales dat
 - Data Modeling & Relationships
 
 ## 📂 Repository Structure
+Financial-Sales-PowerBI-Dashboard/
+├── Data/
+│   └── Financial_Sample.xlsx
+├── Dashboard/
+│   └── project_1.pbix
+├── Screenshots/
+│   └── dashboard_preview.png
+└── README.md
